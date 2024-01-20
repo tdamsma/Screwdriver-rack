@@ -8,6 +8,8 @@ I designed it to hold all my PB-Swiss screwdrivers, but it should work for most 
 
 ![](images/screw-driver-rack-split.png)
 
+Also on [printables](https://www.printables.com/model/731096-screwdriver-rack-paramateric-cadquery-pb-swiss)
+
 ## Usage
 
 Install [jupyter-cadquery](https://github.com/bernhard-42/jupyter-cadquery) and run the [notebook](screw-driver-rack.ipynb). Cadquery can be a bit hairy, but I did my best to make the notebook somewhat legible.
